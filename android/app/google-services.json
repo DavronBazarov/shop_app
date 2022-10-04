@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1015871445202",
+    "project_id": "flutter-update-c3033",
+    "storage_bucket": "flutter-update-c3033.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015871445202:android:a341d86f87db74c286f50b",
+        "android_client_info": {
+          "package_name": "uz.bazarov.shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015871445202-h14msd6h5fcml75027l342map40deoc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRIH3brwmSn6STASZA8MtFL-EllVJobUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015871445202-h14msd6h5fcml75027l342map40deoc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
